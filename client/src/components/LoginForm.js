@@ -35,7 +35,7 @@ const LoginForm = () => {
 
     try {
       const {data} = await login({
-        variable: {...userFormData}
+        variables: {...userFormData}
       });
 
       console.log(data.login.token)
@@ -49,7 +49,6 @@ const LoginForm = () => {
     }
 
     setUserFormData({
-      username: '',
       email: '',
       password: '',
     });
