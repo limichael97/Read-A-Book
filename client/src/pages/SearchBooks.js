@@ -39,6 +39,7 @@ const SearchBooks = () => {
         throw new Error('something went wrong!');
       }
 
+      console.log(response)
       const { items } = await response.json();
 
       const bookData = items.map((book) => ({
