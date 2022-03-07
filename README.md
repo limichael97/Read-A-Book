@@ -3,7 +3,7 @@
 
 # Description
 
-This application allows for users to search for a topic/title or specific book. The results would show the image, title, and description of thh book(s) and users would be able to save that book(s) as a reading list to refer back to.
+This application allows for users to search for a topic/title or specific book through "Google Books API". The results would show the image, title, and description of thh book(s) and users would be able to save that booK(s) as a reading list to refer back to.
 
 # License
 This project is licensed under the MIT license.
