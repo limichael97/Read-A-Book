@@ -3,6 +3,8 @@
 
 # Description
 
+![image](https://user-images.githubusercontent.com/90745029/156950236-5fe93ff5-5baf-4b1d-8039-db4378fa4a0c.png)
+
 This application allows for users to search for a topic/title or specific book through "Google Books API". The results would show the image, title, and description of thh book(s) and users would be able to save that booK(s) as a reading list to refer back to.
 
 # License
